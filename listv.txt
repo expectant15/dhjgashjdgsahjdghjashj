@@ -1,4 +1,4 @@
-alonepeace updated! ( 05.10.20 )
+alonepeace updated! ( 07.10.20 )
 - some bugs fixed
 - added a new type aa
 - fixed fake duck
