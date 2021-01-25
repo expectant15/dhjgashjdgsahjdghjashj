@@ -1,4 +1,4 @@
-alonepeace updated! ( 08.10.20 )
+alonepeace updated! ( 25.01.2021 )
 - some bugs fixed
 - fix resolver
-- add indicators
+- fix anti aim
